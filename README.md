@@ -2,9 +2,9 @@
 
 ## see also
 
-This git repository is a copy of a permanent data deposit with the Environmental Data
-Initiative. It is also archived here for easier viewing of associated scripts, and this
-repository does not include data, model inputs and executable, and other large files.
+This github repository is a copy of a permanent data deposit with the Environmental Data
+Initiative (EDI). It is also archived here for easier viewing of associated scripts, but this
+github repository does not include data, model inputs and executable, and other large files.
 To download the full data deposit, go to:
 
 **Data desposit citation:** Braziunas, K.H., R. Seidl, W. Rammer, and M.G. Turner. 2020. Can we manage a future with more fire? Effectiveness of defensible space treatment depends on housing amount and configuration ver 1. Environmental Data Initiative. [https://doi.org/10.6073/pasta/696e59acecd0bd289dae1afe3316c09c](https://doi.org/10.6073/pasta/696e59acecd0bd289dae1afe3316c09c).
@@ -15,7 +15,7 @@ This readme gives an overview of directory structure, files, and steps for recre
 outputs and analyses associated with wildland urban interface fire risk simulation runs for
 Braziunas et al. 2021.
 
-**Manuscript citation:** Braziunas, K.H., Seidl, R., Rammer, W. et al. Can we manage a future with more fire? Effectiveness of defensible space treatment depends on housing amount and configuration. Landscape Ecol 36, 309–330 (2021). [https://doi.org/10.1007/s10980-020-01162-x](https://doi.org/10.1007/s10980-020-01162-x)
+**Manuscript citation:** Braziunas, K.H., R. Seidl, W. Rammer, and M.G. Turner. 2021. Can we manage a future with more fire? Effectiveness of defensible space treatment depends on housing amount and configuration. Landscape Ecol 36:309–330. [https://doi.org/10.1007/s10980-020-01162-x](https://doi.org/10.1007/s10980-020-01162-x)
 
 ## organization
 
