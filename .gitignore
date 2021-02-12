@@ -2,7 +2,7 @@
 *.DS_Store
 __pycache__
 .Rproj.user
-readme.md
+readme_edi.md
 programs/the_model/*
 programs/the_model/NR/*
 programs/the_model/NR/scripts/*
