@@ -1,0 +1,17 @@
+# files not to be tracked
+*.DS_Store
+__pycache__
+.Rproj.user
+readme.md
+programs/the_model/*
+programs/the_model/NR/*
+programs/the_model/NR/scripts/*
+
+# drill down to unlist scripts folder
+# and project files
+!programs/the_model/
+!programs/the_model/NR/
+!programs/the_model/NR/*xml
+!programs/the_model/NR/scripts/
+!programs/the_model/NR/scripts/*R
+!programs/the_model/NR/scripts/*js
